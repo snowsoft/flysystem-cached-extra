@@ -1,5 +1,5 @@
 {
-    "name": "nao-pon/flysystem-cached-extra",
+    "name": "snowsoft/flysystem-cached-extra",
     "description": "Extra traits for Flysystem cached adapter",
     "license": "MIT",
     "authors": [
